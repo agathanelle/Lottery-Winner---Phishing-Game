@@ -1,4 +1,4 @@
-# Lottery-Winner-Phishing-Game
+# Lottery Winner - Phishing Game
 ## Edukacinis žaidimas apie duomenų vagystės prevenciją
 
 Žaidimo įdiegimas ir paleidimas
