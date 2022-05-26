@@ -1,0 +1,40 @@
+{
+  "letters": [
+    {
+      "sender": "Paypal Team",
+      "subject": "Protect your account",
+      "text": "Dear Lucky Winner, \n\nWe would want to inform you that you have to protect your account, so please visit www.paypa1.com \n\nSincerely, \nTV Paypal Team",
+      "liable": false,
+      "buttonText": "",
+      "explanation": "www.paypa1.com is a not valid address due to using similar letters and numbers",
+      "tutorial": "Sometime URL links can be visually misleading as some letters and numbers are similar, for example 1 and l"
+    },
+    {
+      "sender": "Steam Team",
+      "subject": "Update your account",
+      "text": "Hello, \nplease update your account by clicking on this link:\nwww.streamcommunity.com/account \n\nYours, \nSteam Team",
+      "liable": false,
+      "buttonText": "",
+      "explanation": "www.streamcommunity.com/account is not a valid address due to adding extra r letter in URL",
+      "tutorial": "Sometime URL links can be shortened or too long. Due to that there can be an error in URL, added, removed or replaced symbols"
+    },
+    {
+      "sender": "CookBook",
+      "subject": "CookBook profile activation",
+      "text": "Thank you for signing up on CookBook!\n\n Please click the following link to activate your account.\n\n\n\nIt wasn't you? Ignore this email. Something is not working? Please contact: support@cookbook.com \n\nYours, \nCookBook",
+      "liable": true,
+      "buttonText": "Activate your Account",
+      "explanation": "This email is valid as do not require your personal information, but only to active account you have sign up. It also mentions to ignore email if it wasn't you.",
+      "tutorial": "No one should ask for your personal information or require to log into your account through given URL or button. Never click on password reset URLs or buttons if you have not requested one"
+    },
+    {
+      "sender": "Business Something (bamg4542@mail.com)",
+      "subject": "Business proposal",
+      "text": "Dear Lucky Winner,\nWe would love to suggest you a business proposal. If you want to know about it then you can read and response it here:\n\n\n\nWaiting for your response, \nBusiness Team",
+      "liable": false,
+      "buttonText": "Click me!",
+      "explanation": "Sender email is not valid one and contains random letters and numbers even if sender is adressing you in official way",
+      "tutorial": "Double check content of the letter, who is sender, why sender is writing you, how sender is addressing you, how letter looks and feels like. Sometimes people tend to believe such letters and overlook details which are a proof of phishing attack."
+    }
+  ]
+}

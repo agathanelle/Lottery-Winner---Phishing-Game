@@ -1,0 +1,106 @@
+{
+  "letters": [
+    {
+      "sender": "TV Production",
+      "subject": "Become our guest on TV show",
+      "text": "Hello Lottery Winner, \n\nWe would love to have you on our TV show 'Ask a question about us'! If you are interested in being our guest then feel free to fill this form: \nwww.tv-production.com/form\n\nYours and only, \nTV Production Team",
+      "liable": true,
+      "buttonText": "",
+      "explanation": "www.tv-production.com/form is a valid address and it matches URL in your notebook"
+    },
+    {
+      "sender": "Today's News Newspaper",
+      "subject": "Interview in newspaper",
+      "text": "Greetings Lottery Winner,\n\nWe would love to have a chat with you about writing your story on our newspaper! If you are interested then please choose suitable date on this website:\nwww.bo0k-interuiew.com \n\nYour liable newspaper, \nToday's News Newspaper Team",
+      "liable": false,
+      "buttonText": "",
+      "explanation": "www.bo0k-interuiew.com is not a valid address due to using similar letters and numbers"
+    },
+    {
+      "sender": "InstaFamous Manager",
+      "subject": "Business proposal",
+      "text": "Hello Lottery Winner,\n\nWe would love to suggest you a business proposal. If you want to know about it then you can read it here:\nwww.business4media.com \n\nWaiting for your response, \nInstaFamous Manager",
+      "liable": true,
+      "buttonText": "",
+      "explanation": "www.business4media.com is a valid address and it matches URL in your notebook"
+    },
+
+
+    {
+      "sender": "DPD Lithuania",
+      "subject": "Shipment Delivery Annoucement",
+      "text": "Hello,\n\nToday we will deliver your shipment around 13:15-13:40. During delivery please provide last 5 numbers of order. \nYou can change delivery date or time here:  \nwww.dpdgroup.com/lithuania/ordertracking \n\nYours DPD Lithuania",
+      "liable": true,
+      "buttonText": "",
+      "explanation": "www.dpdgroup.com/lithuania/ordertracking is a valid address and it matches URL in your notebook"
+    },
+    {
+      "sender": "MediaMarket Manager",
+      "subject": "Electronics Business Proposal",
+      "text": "Dear Lottery Winner,\n\nWe would want to propose you a business proposal! It is regarding electronics, so if you are interested and want to know more then visit this website:\nwww.businesstart4everyone.com/about \n\nSincerely, \nMediaMarket Manager",
+      "liable": false,
+      "buttonText": "",
+      "explanation": "www.businesstart4everyone.com/about is not a valid address as there is s missing in URL and doesn't match URL in your notebook"
+    },
+    {
+      "sender": "Weekly Lottery",
+      "subject": "Participate in this week lottery",
+      "text": "Participate in this week lottery!\n\nYou may be one of few lucky ones to win the grand prize. If you want to participate then register here:\n\nwww.weeklylotterryjackpot.com",
+      "liable": false,
+      "buttonText": "",
+      "explanation": "www.weeklylotterryjackpot.com is not a valid address as it does not match URL in your notebook and has extra r in URL"
+    },
+
+
+    {
+      "sender": "InstaFamou Team",
+      "subject": "Account Data",
+      "text": "Dear User, \n\nYou have missing information on your account. Please log in into your account and provide your information by clicking on this button: \n\n\nYours, \nInstaFamous Team",
+      "liable": false,
+      "buttonText": "Update your account",
+      "explanation": "Email is phishing one as asks to log in and provide your information by clicking on it"
+    },
+    {
+      "sender": "People of X town",
+      "subject": "Gorgeous people in your town",
+      "text": "Hello Lottery Winner,\n\nWe would love to introduce you to gorgeous and rich people in this town. Fill the registration form by clicking it: \n\n\n\nAll you need to do is to provide your name, surname, bank account and birthday by responding to this email",
+      "liable": false,
+      "buttonText": "Register now",
+      "explanation": "Phishing email as asks to provide sensitive information as name, surname, bank account and birthday"
+    },
+    {
+      "sender": "InstaFamous",
+      "subject": "Reset password",
+      "text": "Hi Lottery Winner,\n\nReset your password in the span of 15min. Please change your password by clicking on this button \n\n\n\nIf it wasn't you then change your password on your account. \n\nYours, \nInstaFamous",
+      "liable": true,
+      "buttonText": "Change password",
+      "explanation": "This email is phishing one as asks you to provide sensitive infomation and email is sketchy one."
+    },
+
+
+    {
+      "sender": "Karen Smith (ajksdajksd@asd.com)",
+      "subject": "Donation",
+      "text": "Dear Lottery Winner,\n\nMy name is Karen and I'm suffering from cancer. I need money for a chemo therapy and would be grateful if you could donate. Please provide these information:\nName and surname\nBank account and passwords \n\nWaiting for your response, \nKaren Smith",
+      "liable": false,
+      "buttonText": "",
+      "explanation": "This email is phishing one as asks you to provide sensitive infomation and email is sketchy one."
+    },
+    {
+      "sender": "Golden Jewelry (golden@jevvelry.com)",
+      "subject": "Cancel your order",
+      "text": "Dear Lottery Winner,\n\nClick on the button to cancel your order nr 1223434 which contains golder earings with diamonds.\n\n\n\nYours and only, \nGolden Jewelry Team",
+      "liable": false,
+      "buttonText": "Cancel order",
+      "explanation": "This email is phishing one as email is not the same as in notebook."
+    },
+    {
+      "sender": "Cool Dev (matt@cooldev.com)",
+      "subject": "Newsletter",
+      "text": "Hi Lottery Winner,\nThis week's article came to me as an idea due to the sheer number of comments I get related to how I always write out code such as user == null instead of !user.\n\n\n\n Don't want to receive such emails? Unsubscribe",
+      "liable": true,
+      "buttonText": "Read more",
+      "explanation": "This email is not suspicious as it is a simple newsletter and sender's email is the same as in your notebook"
+    }
+  ]
+}
