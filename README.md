@@ -8,4 +8,5 @@
 - Paleisti Next Scene.exe failą
 
 Demonstracinis vaizdo įrašas yra pasiekiamas šia nuoroda: https://drive.google.com/drive/folders/1VibeTKEppXSWAu71h-12nElObeYtFHR1?usp=sharing
+
 Demonstracinio vaizdo įrašo pavadinimas: Demonstracinis video.mkv
