@@ -2,7 +2,10 @@
 ## Edukacinis žaidimas apie duomenų vagystės prevenciją
 
 Žaidimo įdiegimas ir paleidimas
-- Atidaryti nuorodą: https://drive.google.com/file/d/1MRI3NFMU9Au8vS-oE1Z95arGQ8Ikxsa7/view?usp=sharing
-- Parsiųsti zip failą
+- Atidaryti nuorodą: https://drive.google.com/drive/folders/1VibeTKEppXSWAu71h12nElObeYtFHR1?usp=sharing
+- Parsiųsti Lottery Winner.zip failą
 - Išarchyvuoti
 - Paleisti Next Scene.exe failą
+
+Demonstracinis vaizdo įrašas yra pasiekiamas šia nuoroda: https://drive.google.com/drive/folders/1VibeTKEppXSWAu71h-12nElObeYtFHR1?usp=sharing
+Demonstracinio vaizdo įrašo pavadinimas: Demonstracinis video.mkv
